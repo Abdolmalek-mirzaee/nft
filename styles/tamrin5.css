@@ -660,3 +660,61 @@ nav{
         margin-top:1rem;
     }
 }
+
+@media only screen and (max-width:799px) {
+
+      .main-bottom{
+
+          height: 67.3rem;
+      }
+}
+
+
+@media only screen and (max-width:645px) {
+
+
+    .main-bottom{
+
+        height: 88.3rem;
+    }
+}
+
+
+@media only screen and (max-width:333px) {
+
+
+    .main-bottom{
+
+        height: 95.3rem;
+    }
+}
+
+
+@media only screen and (max-width:289px) {
+
+
+    .main-bottom{
+
+        height: 99.3rem;
+    }
+}
+
+
+@media only screen and (max-width:248px) {
+
+
+    .main-bottom{
+
+        height: 103.3rem;
+    }
+}
+
+
+@media only screen and (max-width:181px) {
+
+
+    .main-bottom{
+
+        height: 106.3rem;
+    }
+}
