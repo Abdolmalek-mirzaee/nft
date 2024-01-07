@@ -1,0 +1,329 @@
+*{
+    box-sizing: border-box;
+    margin:0px;
+}
+
+body{
+       
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+     font-size: 50px;
+     line-height: 53px;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size:15px;
+   
+}
+
+a:hover{
+
+    color: #FF5722;
+}
+
+.h-1{
+     
+      width: 300px;
+      display: flex;
+      justify-content:space-between;
+      margin-right: 50px;
+      padding-top: 61px;
+      padding-right: 10px;
+     
+}
+
+.h{
+      direction: ltr;
+      height:110px;
+      display: flex;
+      justify-content: space-between;
+}
+
+.h .img img{
+      width:64px;
+      height:64px;
+      color:#FF6F00;
+      margin-left: 61px;
+      margin-top: 22px;
+      cursor:pointer;
+      
+}
+
+
+
+.box-1{
+
+    background-color:#2cccc4;
+    padding-top: 40px;
+}
+
+.box-2{
+       height:340px;
+       display: flex;
+       flex-direction: row-reverse;
+       gap:20px;
+       justify-content: center;
+       margin-top: 50px;
+      
+}
+
+
+.header{
+         width:1000px;
+         font-size: 10px;
+         color:#fff;
+         text-align: center;
+         margin: 30px auto;
+         line-height: 60px;
+     
+}   
+
+.conteiner{
+
+     width:365px;
+     height:260px;
+     background-color: #fff;
+     border-radius: 10px;
+     transition: all 350ms ease-in;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+}
+
+.conteiner:hover{
+
+      transform: translateY(-5px);
+}
+
+.conteiner img{
+
+       width:225px;
+       height:225px;
+}
+
+.my-img{
+      
+        width:1150px;
+        height:600px;
+        overflow: hidden;
+        margin-left: 50px;
+        
+}
+
+.my-img img{
+       
+       width: 1150px;
+       margin-top: -100px;
+}
+
+.pp{
+      margin-top: 40px;
+      text-align: center;
+      font-size: 30px;
+   
+}
+
+.pp-2{
+      
+      width:1200px;
+     
+      margin-right: 50px;
+      margin-top: 20px;
+      line-height:31px;
+}
+
+.pp-2 span{
+      
+      font-size:18px;
+}
+
+.pp-3{
+    
+      display: flex;
+      gap:30px;
+      justify-content: center;
+      margin-top: 30px;
+}
+
+.child-pp-3{
+
+        width:261.75px;
+        height:217px;
+        background-color:#EEEEEE;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+
+.cpp-3{
+        
+       width:159.24px;
+       height:102.04px;
+       text-align: center;
+}
+
+
+
+
+.cpp-3 p{
+
+      margin-top: 18px;
+      font-size: 18px;
+      font-weight:700;
+}
+
+
+.cpp-3 img{
+
+      width:59px;
+      height:56.05px;
+      display:block;
+      margin: 0px auto;
+}
+
+.cpp-3 a{
+       
+       display: inline-block;
+       margin-top: 18px;
+       color:#1E88E5;
+       font-size: 18px;
+       font-weight:700;
+}
+
+
+.pp-4{
+        
+      text-align: center;
+      margin-top: 30px;
+    
+}
+
+.pp-4 h2{
+       
+        font-weight: 900;
+        font-size: 30px;
+}
+
+.pp-5{
+       height: 400px;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       gap:130px;
+}
+
+.cpp-5{
+
+        width:216px;
+        height:216px;
+        background-image: url("https://chalandarhome.website/images/a1.png");
+        background-size:cover;
+        background-repeat: no-repeat;
+        border-radius: 100%;
+        background-position:-48px;
+
+}
+
+.cpp-6{
+
+      width:216px;
+      height:216px;
+      background-image: url("https://chalandarhome.website/images/b.png");
+      background-size:cover;
+      background-repeat: no-repeat;
+      border-radius: 100%;
+      background-position:-48px;
+}
+
+.cpp-7{
+
+      width:216px;
+      height:216px;
+      background-image: url("https://chalandarhome.website/images/bb.png");
+      background-size:cover;
+      background-repeat: no-repeat;
+      border-radius: 100%;
+      background-position:-48px;
+}
+
+.copp-5{
+
+      text-align: center;
+      margin-bottom: 90px;
+}
+
+.copp-5 p{
+
+      margin-top: 35px;
+      font-size:20px;
+}
+
+.copp-5 a{
+
+       font-size: 20px;
+       color:#0288D1 ;
+       display: block;
+       margin-top: 35px;
+}
+
+.pp-6{
+
+      height:800px;
+      background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sixth_Avenue_and_Central_Park_South_%28Unsplash%29.jpg/1200px-Sixth_Avenue_and_Central_Park_South_%28Unsplash%29.jpg?20170812132953");
+      background-size:cover;
+      text-align: center;
+    
+  
+    
+}
+
+.mo{
+     
+      padding: opx 60px;
+}
+
+.pp-6 h2{
+
+       font-size: 96px;
+       fo
+       
+}
+
+.btn{
+        
+      width: 150px;
+      height:50px;
+      background-color:#42A5F5;
+      margin-top:40px;
+}
+
+.btn:hover{
+
+        cursor: pointer;
+        background-color:#0D47A1;
+        border: none;
+        outline: none;
+}
+
+.fot{
+        height:150px;
+        background-color:#424242;
+}
+
+.matn{
+        padding-top: 50px;
+        text-align:center;
+}
+
+
+

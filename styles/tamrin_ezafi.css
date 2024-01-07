@@ -1,0 +1,94 @@
+@font-face {
+    font-family: "vazir bold";
+    src: url(../font/woff/Vazir-Bold.woff) format("woff");
+}
+
+
+body{
+       font-family: "vazir bold";
+       font-weight: 700;
+}
+
+
+*{
+    box-sizing: border-box;
+    margin:0px;
+}
+
+.conteiner{
+
+     width:1214.67px;
+     height:412.33px;
+     background-color: #fff;
+     margin: 30px auto;
+     display: flex;
+}
+
+.heder{
+
+      width:607.33px;
+      height:412.33px;
+}
+
+.heder img{
+       display: block;
+       width:256px;
+       height:128px;
+       margin-right:190px;
+       margin-top: 130px;
+        
+}
+
+p{
+       width:511.33px;
+       height:56px;
+       margin-right: 48px;
+       margin-left: 48px;
+       margin-bottom: 16px;
+       text-align: center;
+       font-size: 19px;
+       line-height: 28px;
+       font-weight:500;
+
+}
+
+.box1_img , .box2_img{
+
+     width:271.67px;
+     height:380.33px;
+     background-color: blue;
+     border-radius: 10px;
+}
+
+.box1_img{
+      
+     background-image:url("https://tj8.ir/img/woman-1.webp") ;
+     background-size: 100%;
+}
+
+.box2_img{
+
+      background-image: url("https://tj8.ir/img/man-1.webp");
+      background-size:100%;
+}
+
+.img{
+     
+     display: flex;
+     gap:20px;
+     margin-right: 20px;
+}
+
+.btn{
+
+      display: flex;
+      gap:20px;
+      margin: 10px auto;
+}
+
+button{
+
+        width:98px;
+        height:28px;
+
+}
